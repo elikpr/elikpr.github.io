@@ -6,7 +6,17 @@ categories:
 tags:
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+> Bu yerda Eldorning ilk blogi keltirilgan. NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+
+```C++
+#include <stdio.h>
+int main() {
+ printf("Hello World!\n");
+ return 0;
+}
+
+```
+
 
 <!-- more -->
 
